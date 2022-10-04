@@ -1,0 +1,8 @@
+Amaç : Yazacağımız herhangi bir yazı , website , sattığınız ürün vb. şeyleri qr koda dönüştürerek size ve yardımı dokunacağı kişilere kolaylık sağlamaktır.
+                                 
+                                                                          Çalışma sistemi : 
+
+En önemli hususlardan birisi biz burda python'ın " qrcode " kütüphanesini kullandık.
+qrcode'un kalıp alacağı  yükseklik ve genişlik değerlerini giriyoruz.
+Ardından kenarlık veriyoruz.
+qrcode ile birlikte ekrana çıkmasını istediğiniz öğeyi " giden_deger " ile yazıyoruz.
